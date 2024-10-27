@@ -1,18 +1,25 @@
-# custom_web_player
+# Flutter App custom web player Youtube.
 
-Flutter App custom web player.
+```bash
+git clone https://github.com/ultra-rony/anime.git
+```
 
-## Getting Started
+```bash
+cd anime
+```
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-custom-web-player-youtube
-# flutter-custom-web-player-youtube
+<div align="left">
+  <div style="display: flex;">
+        <img src="https://image.link.rony.fun//9olfRoa10mZHjtnEy2Ff5lZCMa6vjzOvZuEIaHNhjAEKUQjS1mn0BbcwyYNLJXFd.jpg" width="20%" alt=""/>
+    </div>
+</div>

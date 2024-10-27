@@ -1,0 +1,1 @@
+ /Users/romandakonov/Desktop/flutter_projects/custom_web_player/.dart_tool/flutter_build/6a56d33561371bce5bf0f6ec0bfdb3e2/native_assets.yaml: 

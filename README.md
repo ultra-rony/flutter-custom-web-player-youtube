@@ -1,11 +1,11 @@
 # Flutter App custom web player Youtube.
 
 ```bash
-git clone https://github.com/ultra-rony/anime.git
+git clone https://github.com/ultra-rony/flutter-custom-web-player-youtube.git
 ```
 
 ```bash
-cd anime
+cd flutter-custom-web-player-youtube
 ```
 
 ```bash

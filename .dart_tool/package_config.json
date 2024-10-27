@@ -236,10 +236,10 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2024-10-26T15:09:50.888847Z",
+  "generated": "2024-10-27T17:42:42.875443Z",
   "generator": "pub",
-  "generatorVersion": "3.5.3",
+  "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Users/romandakonov/Developments/flutter",
-  "flutterVersion": "3.24.3",
+  "flutterVersion": "3.24.4",
   "pubCache": "file:///Users/romandakonov/.pub-cache"
 }
